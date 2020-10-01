@@ -20,9 +20,9 @@
 
 |     Project      |                          Repository                          |                         Pull Request                         |
 | :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  숫자 야구 게임  | [java-baseball-precourse](https://github.com/lxxjn0/java-baseball-precourse) | [Pull Request](https://github.com/woowacourse/java-baseball-precourse/pull/209) |
-| 자동차 경주 게임 | [java-racingcar-precourse](https://github.com/lxxjn0/java-racingcar-precourse) | [Pull Request](https://github.com/woowacourse/java-racingcar-precourse/pull/185) |
-|      블랙잭      | [java-blackjack-precourse](https://github.com/lxxjn0/java-blackjack-precourse) | [Pull Request](https://github.com/woowacourse/java-blackjack-precourse/pull/38) |
+|  숫자 야구 게임  | [java-baseball-precourse](https://github.com/kouz95/java-baseball-precourse) | [Pull Request](https://github.com/woowacourse/java-baseball-precourse/pull/142) |
+| 자동차 경주 게임 | [java-racingcar-precourse](https://github.com/kouz95/java-racingcar-precourse) | [Pull Request](https://github.com/woowacourse/java-racingcar-precourse/pull/141) |
+|      블랙잭      | [java-blackjack-precourse](https://github.com/kouz95/java-blackjack-precourse) | [Pull Request](https://github.com/woowacourse/java-blackjack-precourse/pull/28) |
 
 <br/>
 
@@ -36,7 +36,7 @@
 
 | Project |                          Repository                          |                         Pull Request                         |
 | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 치킨집  | [java-chicken-2019](https://github.com/lxxjn0/java-chicken-2019) | [Pull Request](https://github.com/woowacourse/java-chicken-2019/pull/1) |
+| 치킨집  | [java-chicken-2019](https://github.com/kouz95/java-chicken-2019) | [Pull Request](https://github.com/woowacourse/java-chicken-2019/pull/34) |
 
 <br/>
 
@@ -57,15 +57,15 @@
 
 |     Project      |                          Repository                          |                         Pull Request                         |
 | :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  문자열 계산기   | [java-calculator](https://github.com/lxxjn0/java-calculator) | [Pull Request](https://github.com/woowacourse/java-calculator/pull/44) |
-| 자동차 경주 게임 |  [java-racingcar](https://github.com/lxxjn0/java-racingcar)  | [Pull Request](https://github.com/woowacourse/java-racingcar/pull/93) |
-|   로또 / step1   | [java-lotto/step1](https://github.com/lxxjn0/java-lotto/tree/step1) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/161) |
-|   로또 / step2   | [java-lotto/step2](https://github.com/lxxjn0/java-lotto/tree/step2) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/178) |
-|  블랙잭 / step1  | [java-blackjack/step1](https://github.com/lxxjn0/java-blackjack/tree/step1) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/26) |
-|  블랙잭 / step2  | [java-blackjack/step2](https://github.com/lxxjn0/java-blackjack/tree/step2) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/104) |
-|   체스 / step1   | [java-chess/step1](https://github.com/lxxjn0/java-chess/tree/step1) | [Pull Request](https://github.com/woowacourse/java-chess/pull/61) |
-|   체스 / step2   | [java-chess/step2](https://github.com/lxxjn0/java-chess/tree/step2) | [Pull Request](https://github.com/woowacourse/java-chess/pull/155) |
-|   90년생 HTML    |            [html](https://github.com/lxxjn0/html)            | [Pull Request](https://github.com/woowacourse/html/pull/50)  |
+|  문자열 계산기   | [java-calculator](https://github.com/kouz95/java-calculator) | [Pull Request](https://github.com/woowacourse/java-calculator/pull/40) |
+| 자동차 경주 게임 |  [java-racingcar](https://github.com/kouz95/java-racingcar)  | [Pull Request](https://github.com/woowacourse/java-racingcar/pull/64) |
+|   로또 / step1   | [java-lotto/step1](https://github.com/kouz95/java-lotto/tree/lotto) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/118) |
+|   로또 / step2   | [java-lotto/step2](https://github.com/kouz95/java-lotto/tree/lotto2) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/172) |
+|  블랙잭 / step1  | [java-blackjack/step1](https://github.com/kouz95/java-blackjack/tree/level1) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/47) |
+|  블랙잭 / step2  | [java-blackjack/step2](https://github.com/kouz95/java-blackjack/tree/level2) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/99) |
+|   체스 / step1   | [java-chess/step1](https://github.com/kouz95/java-chess/tree/week1) | [Pull Request](https://github.com/woowacourse/java-chess/pull/88) |
+|   체스 / step2   | [java-chess/step2](https://github.com/kouz95/java-chess/tree/week3) | [Pull Request](https://github.com/woowacourse/java-chess/pull/139) |
+|   90년생 HTML    |            [html](https://github.com/kouz95/html)            | [Pull Request](https://github.com/woowacourse/html/pull/37)  |
 
 <br/>
 
@@ -86,16 +86,15 @@
 
 |       Project        |                          Repository                          |                         Pull Request                         |
 | :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|     체스 / step1     | [jwp-chess/step1](https://github.com/lxxjn0/jwp-chess/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/37) |
-|     체스 / step2     | [jwp-chess/step2](https://github.com/lxxjn0/jwp-chess/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/87) |
-|     체스 / step3     | [jwp-chess/step3](https://github.com/lxxjn0/jwp-chess/tree/step3) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/122) |
-|     체스 / step4     | [jwp-chess/step4](https://github.com/lxxjn0/jwp-chess/tree/step4) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/209) |
-|   지하철 정보 관리   | [atdd-subway-admin](https://github.com/lxxjn0/atdd-subway-admin) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin/pull/6) |
-|   지하철 경로 조회   | [atdd-subway-path](https://github.com/lxxjn0/atdd-subway-path) | [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/47) |
-| 지하철 경로 즐겨찾기 | [atdd-subway-favorite](https://github.com/lxxjn0/atdd-subway-favorite) | [Pull Request](https://github.com/woowacourse/atdd-subway-favorite/pull/52) |
-|  지하철 Admin CRUD   | [atdd-subway-admin-frontend](https://github.com/lxxjn0/atdd-subway-admin-frontend) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin-frontend/pull/54) |
-|    사용자 이야기     | [woowa-userstory-2020](https://github.com/lxxjn0/woowa-userstory-2020) | [Pull Request](https://github.com/woowacourse/woowa-userstory-2020/pull/51) |
-|      Todo List       |        [todolist](https://github.com/lxxjn0/todolist)        |                       comming soon...                        |
+|     체스 / step1     | [jwp-chess/step1](https://github.com/kouz95/jwp-chess/tree/level1) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/15) |
+|     체스 / step2     | [jwp-chess/step2](https://github.com/kouz95/jwp-chess/tree/week2) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/63) |
+|     체스 / step3     | [jwp-chess/step3](https://github.com/kouz95/jwp-chess/tree/week3) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/157) |
+|     체스 / step4     | [jwp-chess/step4](https://github.com/kouz95/jwp-chess/tree/level4) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/185) |
+|   지하철 정보 관리   | [atdd-subway-admin](https://github.com/kouz95/atdd-subway-admin) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin/pull/12) |
+|   지하철 경로 조회   | [atdd-subway-path](https://github.com/kouz95/atdd-subway-path) | [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/43) |
+| 지하철 경로 즐겨찾기 | [atdd-subway-favorite](https://github.com/kouz95/atdd-subway-favorite) | [Pull Request](https://github.com/woowacourse/atdd-subway-favorite/pull/12) |
+|  지하철 Admin CRUD   | [atdd-subway-admin-frontend](https://github.com/kouz95/atdd-subway-admin-frontend) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin-frontend/pull/7) |
+|    사용자 이야기     | [woowa-userstory-2020](https://github.com/kouz95/woowa-userstory-2020) | [Pull Request](https://github.com/woowacourse/woowa-userstory-2020/pull/37) |
 
 <br/>
 
@@ -109,10 +108,6 @@
 
 - 개발 프로세스 기반으로 프로젝트 진행, 협업하는 경험을 한다.
 - 배포를 자동화하고, 피드백을 받아 지속적으로 개선하는 경험을 한다.
-
-### 진행 미션
-
-- comming soon...
 
 <br/>
 
@@ -130,17 +125,13 @@
 - 객체지향 설계, 인증 및 보안, WebSocket 경험을 한다.
 - 대용량 서비스를 위한 시스템 아키텍처 설계, 데이터 처리 경험을 한다.
 
-### 진행 미션
-
-- comming soon...
-
 <br/>
 
 ## 📹 Tecotalk : 크루들에게 지식을 공유하는 방법
 
 ### 발표 주제 : 빌드와 배포
 
-- [스티치의 빌드와 배포 - Youtube](https://www.youtube.com/watch?v=6SvUZqbU37E&t=2s)
+- [코즈의 JDBC, SQLMAPPER, ORM - Youtube](https://www.youtube.com/watch?v=mezbxKGu68Y)
 
 <br/>
 
@@ -150,9 +141,9 @@
 
 | Level |                 Topic                  |                          Repository                          |                         Pull Request                         |
 | :---: | :------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|   1   |      우아한테크코스 한 달 생활기       | [woowa-writing-2/level1](https://github.com/lxxjn0/woowa-writing-2/tree/level1/level-1) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/47) |
-|   2   | 우테코에서 찾은 나만의 효과적인 학습법 | [woowa-writing-2/level2](https://github.com/lxxjn0/woowa-writing-2/tree/level2/level-2) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/109) |
-|   3   |    내가 꿈꾸는 프로그래머로서의 삶     |                       comming soon...                        |                       comming soon...                        |
+|   1   |      우아한테크코스 한 달 생활기       | [woowa-writing-2/level1](https://github.com/kouz95/woowa-writing-2/tree/kouz95) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/18) |
+|   2   | 우테코에서 찾은 나만의 효과적인 학습법 | [woowa-writing-2/level2](https://github.com/kouz95/woowa-writing-2/tree/kouz95) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/197) |
+|   3   |    내가 꿈꾸는 프로그래머로서의 삶     | [woowa-writing-2/level3](https://github.com/kouz95/woowa-writing-2/tree/kouz95) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/124) |
 |   4   |       2기 크루들에게 보내는 편지       |                       comming soon...                        |                       comming soon...                        |
 
 <br/>
@@ -171,21 +162,4 @@
 
 <br/>
 
-## 🗃 Javable : 우아한테크코스 코드 리뷰 모음 블로그
 
-### 서비스
-
-- [Javable](https://woowacourse.github.io/javable/)
-
-### Github Repository
-
-- [javable](https://github.com/woowacourse/javable)
-
-### 활동 내용
-
-- [기능 구현 - 블로그 태그 및 페이지 기능](https://github.com/woowacourse/javable/pull/88)
-- [포스팅 - 하나의 테스트 케이스는 단위 기능 중 하나의 시나리오만 테스트하라](https://woowacourse.github.io/javable/2020-04-24/one-test-must-check-one-scenario)
-- [포스팅 - 메서드 시그니처를 수정하여 테스트하기 좋은 메서드로 만들기](https://woowacourse.github.io/javable/2020-05-07/appropriate_method_for_test_by_parameter)
-- [포스팅 - 인터페이스를 분리하여 테스트하기 좋은 메서드로 만들기](https://woowacourse.github.io/javable/2020-05-17/appropriate_method_for_test_by_interface)
-- [포스팅 - 반복적으로 사용되는 인스턴스 캐싱하기](https://woowacourse.github.io/javable/2020-06-24/caching-instance)
-- [포스팅 - 왜 Constructor Injection을 사용해야 하는가?](https://woowacourse.github.io/javable/2020-07-18/di-constuctor-injection)
