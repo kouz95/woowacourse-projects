@@ -148,18 +148,36 @@
 
 <br/>
 
-## 👋🏻 SUPP : 식전 수프처럼 페어와의 협업 맛을 돋우는 에피타이저
+# 사이드 프로젝트<a name="supp"></a>
+## 🤝 SUPP : 식전 수프처럼 페어와의 협업 맛을 돋우는 에피타이저
 
 ### 서비스
-
-- [SUPP](https://d10qlfpm4ciz64.cloudfront.net/)
 - [SUPP 소개글](https://github.com/woowa-supp/supp/blob/master/README.md)
+- [SUPP Homepage](https://d10qlfpm4ciz64.cloudfront.net/)
+- [SUPP Chrome Extension](https://chrome.google.com/webstore/detail/supp-chrome-extension/ohpbfpoinegeoajhhpolgghcfmcbflnc?hl=ko&authuser=1)
+- [서비스 출시 발표 및 회고](https://www.youtube.com/watch?v=ndVYCPm-LH4)
 
-### Github Repository
-
+### Source code
 - [supp](https://github.com/woowa-supp/supp)
 - [supp-chrome-extension](https://github.com/woowa-supp/supp-chrome-extension)
 
 <br/>
 
+# 팀 프로젝트(Level3~4)<a name="jikgorae"></a>
+## 🐳 직고래 : 조직 중고 거래
+_당신이 속한 그룹 어디든 당신이 원하는 것을 사고 파세요. 조직 중고 거래, 직고래._
 
+### 서비스
+- [직고래 소개영상](https://www.youtube.com/watch?v=ECl14dt7sQU)
+- [안드로이드 어플](https://play.google.com/store/apps/details?id=com.sellerleecompany.jikgorae)
+- [API문서](https://sellerlee.tk/docs)
+- [개인정보처리방침](https://sellerlee.tk/privacy)
+
+### Source code
+- [Github](https://github.com/woowacourse-teams/2020-seller-lee-company)
+
+### 발표자료
+- [팀문화 소개](https://www.youtube.com/watch?v=JPmA2tIt8ME)
+- [CI/CD 및 Logging](https://www.youtube.com/watch?v=67TDNiSYRTM)
+- [Level3 최종 발표](https://www.youtube.com/watch?v=shq5CLRWB_I)
+<br/>
