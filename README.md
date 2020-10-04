@@ -145,7 +145,7 @@
 
 ## 📹 Tecotalk : 크루들에게 지식을 공유하는 방법
 
-### 발표 주제 : 빌드와 배포
+### 발표 주제 : JDBC, SQLMAPPER, ORM
 
 - [코즈의 JDBC, SQLMAPPER, ORM - Youtube](https://www.youtube.com/watch?v=mezbxKGu68Y)
 
